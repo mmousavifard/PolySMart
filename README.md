@@ -6,4 +6,4 @@ The algorithm utilized in this code package is based on exploring the system for
 ## User Guides
 [How to Use](https://github.com/mmousavifard/PolySMart/wiki/How-to-Use)\
 [Outputs](https://github.com/mmousavifard/PolySMart/wiki/Outputs)\
-[Test Case](https://github.com/mmousavifard/PolySMart/wiki/Test-Case)\
+[Test Case](https://github.com/mmousavifard/PolySMart/wiki/Test-Case)
