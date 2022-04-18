@@ -35,7 +35,7 @@ with open('../data/inputs.txt') as f:
                 for k in range(1,j):
                     reactant_bead.append(str(k)+reactant_bead[i])
                     reactant_bead_no.append(str(j-k))
-
+                    
 conversion = []
 n = []
 for i in range(len(l[3])//2):
