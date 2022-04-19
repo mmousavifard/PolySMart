@@ -1,4 +1,4 @@
-1   4   1000   95   COH
+1   4   1000   93.75   COH
 CGM_PEG.itp   CGM_DesmodurN.itp
 600    400
 COH   1   NCO   1
