@@ -18,7 +18,7 @@ def find_distance(filename, file1, file2, minimum, maximum, prob, out_path):
     with open(file2) as f:
         list2 = f.readlines()        
     if file2[:3] == '../':
-        file2 = file1[3:]
+        file2 = file2[3:]
     # check if the input filename has '.gro' or not
     if filename[-4:] != '.gro':
         filename += '.gro'
