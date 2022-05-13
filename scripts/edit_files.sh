@@ -1,7 +1,7 @@
 # run the relaxation after reaction
 # $1 = i
 # $2 = time
-source /usr/local/gromacs/bin/GMXRC
+#source /usr/local/gromacs/bin/GMXRC
 
 if [ $1 -eq 1 ]
 then
